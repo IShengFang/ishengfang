@@ -8,11 +8,15 @@ Before that, I am a graduate student of Department of Computer Science in Nation
 I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University, led by [Prof.Wei-Chen (Walon) Chiu](https://walonchiu.github.io/#publications).
 
 My research interests include gerative model, model uncertainty, style transfer, computer vision and its applications. 
+
 My other interests are Typography, Film Photography (Checkout my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling, Baseball.
 
 ## Publications
 
+<!-- 
 ![](https://github.com/IShengFang/Self-Contained_Stylization/raw/master/result.gif)
+-->
+
 - **Self-Contained Stylization via Steganography for Reverse and Serial Style Transfer** 
   - Hung-Yu Chen*, I-Sheng Fang*, Chia-Ming Cheng, Wei-Chen Chiu (* indicates equal contribution.) 
   - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
