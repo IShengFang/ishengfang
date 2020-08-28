@@ -9,7 +9,7 @@ I was a research assistants of Enriched Vision Applications Lab, National Chiao 
 
 My research interests include gerative model, model uncertainty, style transfer, computer vision and its applications. 
 
-My other interests are Typography, Film Photography (Checkout my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling, Baseball.
+My other interests are Typography, Film Photography (Checkout my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling and Baseball.
 
 ## Publications
 
