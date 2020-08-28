@@ -1,4 +1,7 @@
-# 方宜晟 / I-Sheng "Ethan" Fang (Taiwanese Mandarin, "I-Sheng" pronounce like "Ethan")/ Gî-Tshiânn Png (Taiwanese)
+# 方宜晟 / I-Sheng "Ethan" Fang/ Gî-Tshiânn Png
+("I-Sheng" pronounce like "Ethan")
+
+## Description
 
 I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisor is [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen).
 Before that, I am a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/).
