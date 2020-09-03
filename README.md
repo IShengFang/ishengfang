@@ -24,6 +24,13 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
   - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
 
+
+## Contact
+
+email(personal): [nf0126@gmanil.com](nf0126@gmanil.com), [ishengfang@icloud.com](ishengfang@icloud.com)
+
+email(NCTU): [isfang.gdr09g@nctu.edu.tw](isfang.gdr09g@nctu.edu.tw)
+
 <!--
 **IShengFang/ishengfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
