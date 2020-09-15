@@ -3,6 +3,9 @@
 
 [[portfolio]](https://ishengfang.github.io) [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](https://github.com/IShengFang/ishengfang.github.io/raw/master/ishengfang_cv.pdf)
 
+![iSheng's github stats](https://github-readme-stats.vercel.app/api?username=ishengfang&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Description
 
 I am a graduate student of The Master's Degree Program in Robotics in National Chiao Tung University, Taiwan. My advisor is [Prof. Yong-Sheng Chen](https://www.cs.nctu.edu.tw/members/detail/yschen).
@@ -23,11 +26,6 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - Hung-Yu Chen*, I-Sheng Fang*, Chia-Ming Cheng, Wei-Chen Chiu (* indicates equal contribution.) 
   - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
   - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
-
-
-
-![iSheng's github stats](https://github-readme-stats.vercel.app/api?username=ishengfang&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
