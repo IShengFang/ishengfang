@@ -27,7 +27,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 
 
 ![iSheng's github stats](https://github-readme-stats.vercel.app/api?username=ishengfang&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
