@@ -3,8 +3,8 @@
 
 [[portfolio]](https://ishengfang.github.io) [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](https://github.com/IShengFang/ishengfang.github.io/raw/master/ishengfang_cv.pdf)
 
-![iSheng's github stats](https://github-readme-stats.vercel.app/api?username=ishengfang&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true)
+[![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Description
 
