@@ -25,6 +25,11 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
 
 
+
+![iSheng's github stats](https://github-readme-stats.vercel.app/api?username=ishengfang&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishengfang)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact
 
 email(personal): [nf0126@gmanil.com](mailto:nf0126@gmanil.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
