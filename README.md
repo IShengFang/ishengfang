@@ -27,6 +27,14 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - IEEE Winter Conference on Applications of Computer Vision (WACV), 2020.
   - [[arxiv]](https://arxiv.org/pdf/1812.03910.pdf)[[github]](https://github.com/IShengFang/Self-Contained_Stylization)[[project page]](https://ishengfang.github.io/Self-Contained_Stylization/)[[WACV2020]](https://openaccess.thecvf.com/content_WACV_2020/html/Chen_Self-Contained_Stylization_via_Steganography_for_Reverse_and_Serial_Style_Transfer_WACV_2020_paper.html)[[poster]](https://raw.githubusercontent.com/IShengFang/Self-Contained_Stylization/master/poster.pdf)
 
+## Projects
+- **A Century of Heartfelt Sentiment: 100$^{th}$ Anniversary Secial Exhibition of the Taiwan Cultural Association**
+  - The exhibition of National Museum of Taiwan Literature, Tainan , Taiwan.
+    - 2021/05/08 - 2022/01/02
+    - National Museum of Taiwan Literature Exhibition Room D
+  - Synthesizing DeepFake video for historical figure of Taiwan Cultural Association.
+  - [[exhibition page]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[video(coming soon)]
+
 ## Contact
 
 email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud.com](mailto:ishengfang@icloud.com)
