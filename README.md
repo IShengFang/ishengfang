@@ -45,7 +45,7 @@ email(personal): [nf0126@gmail.com](mailto:nf0126@gmail.com), [ishengfang@icloud
 
 email(NCTU): [isfang.gdr09g@nctu.edu.tw](mailto:isfang.gdr09g@nctu.edu.tw)
 
-email(NYCU): [isfang.en09@nctu.edu.tw](mailto:isfang.en09@nycu.edu.tw)
+email(NYCU): [isfang.en09@nycu.edu.tw](mailto:isfang.en09@nycu.edu.tw)
 
 <!--
 **IShengFang/ishengfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
