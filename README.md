@@ -12,11 +12,17 @@ I received my Master degree in Robotics at National Yang Ming Chiao Tung Univers
 Before that, I was a graduate student of Department of Computer Science in National Cheng Chi University, Taiwan. My advisor is [Prof. Yan-Tsung Peng ](http://www.cs.nccu.edu.tw/~ytpeng/). I was a research assistants of Enriched Vision Applications Lab, National Chiao Tung University from September 2018 to September 2019, led by [Prof. Wei-Chen (Walon) Chiu](https://walonchiu.github.io/).
 I received my Bachelor degree in Mathematical Science at National Chengchi University in January, 2018.
 
-My research interests are in the area of generative model, model uncertainty, style transfer, computer vision and deep learning. I also interest in their creativity application, likes East Asian Ideograph font design and style transfer. I believe AI is new electricity. I also believe math can light up the black box of deep learning.
+My research interests are in the area of generative models, depth estimation, style transfer, computer vision, and deep learning. I am also interested in their creative application, such as East Asian Ideograph font design and style transfer. I believe AI is leverage, augmenting human ability not only in monotonous tasks but also in content creation. 
 
 My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling and Baseball.
 
 ## Publications
+
+- **ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network**
+- I-Sheng Fang, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops
+  - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/)
+- [[github]](https://github.com/IShengFang/ES3Net) [[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html)
 
 - **Single Image Reflection Removal based on Knowledge-distilling Content Disentanglement**
   - Yan-Tsung Peng, Kai-Han Cheng, I-Sheng Fang, Wen-Yi Peng, Jr-Shian Wu
@@ -37,7 +43,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
   - 2021/05/08 - 2022/05/08
   - Exhibition Room D, National Museum of Taiwan Literature
   - Synthesizing DeepFake video for historical figures of Taiwan Cultural Association.
-  - [[exhibition page(English)]](https://www.nmtl.gov.tw/en/exhibition_83_245.html)[[exhibition page(Mandarin)]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[exhibition page(Japanese)]](https://www.nmtl.gov.tw/jp/exhibition_85_246.html)[[press release(MoC, Taiwan)]](https://www.moc.gov.tw/information_250_127289.html)[[facebook video]](https://www.facebook.com/tw.bankofculture/posts/4759014084138383)
+  - [[exhibition page(English)]](https://www.nmtl.gov.tw/en/exhibition_83_245.html)[[exhibition page(Mandarin)]](https://event.culture.tw/NMTL/portal/Registration/C0103MAction?useLanguage=tw&actId=10591&request_locale=tw)[[exhibition page(Japanese)]](https://www.nmtl.gov.tw/jp/exhibition_85_246.html)[[press release (English)]](https://www.moc.gov.tw/en/information_197_127326.html)[[press release (Mandarin)]](https://www.moc.gov.tw/information_250_127289.html)[[fanpage post]](https://www.facebook.com/tw.bankofculture/posts/4759014084138383)
 
 ## Contact
 
