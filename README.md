@@ -14,7 +14,7 @@ I received my Bachelor degree in Mathematical Science at National Chengchi Unive
 
 My research interests are in the area of generative models, depth estimation, style transfer, computer vision, and deep learning. I am also interested in their creative application, such as East Asian Ideograph font design and style transfer. I believe AI is leverage, augmenting human ability not only in monotonous tasks but also in content creation. 
 
-My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling and Baseball.
+My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Baseball, Strength and Conditioning Training.
 
 ## Publications
 
