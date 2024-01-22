@@ -14,14 +14,14 @@ I received my Bachelor degree in Mathematical Science at National Chengchi Unive
 
 My research interests are in the area of generative models, depth estimation, style transfer, computer vision, and deep learning. I am also interested in their creative application, such as East Asian Ideograph font design and style transfer. I believe AI is leverage, augmenting human ability not only in monotonous tasks but also in content creation. 
 
-My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Cycling and Baseball.
+My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Baseball, Strength and Conditioning Training.
 
 ## Publications
 
 - **ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network**
   - I-Sheng Fang, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
   - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023
-  - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/)
+  - [The 19th Embedded Vision Workshop](https://embeddedvisionworkshop.wordpress.com/2024/01/03/2023/)
     - Best Paper Award
   - [[github]](https://github.com/IShengFang/ES3Net) [[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/EVW/html/Fang_ES3Net_Accurate_and_Efficient_Edge-Based_Self-Supervised_Stereo_Matching_Network_CVPRW_2023_paper.html)
 
