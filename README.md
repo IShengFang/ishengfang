@@ -1,7 +1,7 @@
 # 方宜晟 / I-Sheng "Ethan" Fang/ Gî-Tshiânn Png
 ("I-Sheng" pronounce like "Ethan")
 
-[[portfolio]](https://ishengfang.github.io) [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[curriculum vitae]](https://github.com/IShengFang/ishengfang.github.io/raw/master/ishengfang_cv.pdf)
+[[portfolio]](https://ishengfang.github.io) [[github]](https://github.com/IShengFang) [[facebook]](https://www.facebook.com/I.Sheng.Fang) [[instagram]](https://www.instagram.com/ishengfang/) [[linkedin]](https://www.linkedin.com/in/i-sheng-fang-83293598/) [[curriculum vitae]](./ishengfang_cv.pdf) [[google scholar]](https://scholar.google.com/citations?user=zLeqqSwAAAAJ)
 
 ![iSheng's github stats](https://github-readme-stats.ishengfang.vercel.app/api?username=ishengfang&count_private=true)
 [![Top Langs](https://github-readme-stats.ishengfang.vercel.app/api/top-langs/?username=ishengfang&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
