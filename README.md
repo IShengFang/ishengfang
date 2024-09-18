@@ -15,7 +15,7 @@ My research interests are in the area of generative model, self/wakly-supervised
 My personal interests are Typography, Film Photography (check out my instagram [@ishengfang](https://www.instagram.com/ishengfang/)), Baseball, Strength and Conditioning Training.
 
 ## Publications
--- **Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models**
+- **Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models**
   - **I-Sheng Fang**, Yue-Hua Han, Jun-Cheng Chen 
   - SIGGRAPH Asia 2024 (Conference Track).
   - [[Project Page]](https://camera-settings-as-tokens.github.io/) [[Demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [github(comming soon)]
