@@ -18,12 +18,12 @@ My personal interests are Typography, Film Photography (check out my instagram [
 - **Camera Settings as Tokens: Modeling Photography on Latent Diffusion Models**
   - **I-Sheng Fang**, Yue-Hua Han, Jun-Cheng Chen 
   - SIGGRAPH Asia 2024 (Conference Track).
-  - [[Project Page]](https://camera-settings-as-tokens.github.io/) [[Demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [github(comming soon)]
+  - [[project page]](https://camera-settings-as-tokens.github.io/) [[demo]](https://huggingface.co/spaces/Camera-Settings-as-Tokens/Camera-Settings-as-Tokens) [github(comming soon)]
 
 - **Best of Both Sides: Integration of Absolute and Relative Depth Sensing Modalities Based on iToF and RGB Cameras**
   - **I-Sheng Fang**, Wei-Chen Chiu, Yong-Sheng Chen
   - International Conference on Pattern Recognition (ICPR), 2024.
-  - [[github(comming soon)]]
+  - [[paper]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr.pdf) [[supplementary materials]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr_supp.pdf) [[github(comming soon)]]
 
 - **ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network**
   - **I-Sheng Fang**, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
