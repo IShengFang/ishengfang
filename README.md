@@ -23,7 +23,7 @@ My personal interests are Typography, Film Photography (check out my instagram [
 - **Best of Both Sides: Integration of Absolute and Relative Depth Sensing Modalities Based on iToF and RGB Cameras**
   - **I-Sheng Fang**, Wei-Chen Chiu, Yong-Sheng Chen
   - International Conference on Pattern Recognition (ICPR), 2024.
-  - [[paper]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr.pdf) [[supplementary materials]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr_supp.pdf) [[github]](https://github.com/IShengFang/Best-of-Both-Sides_iToF-RGB-Integration)
+  - [[Springer]](http://dx.doi.org/10.1007/978-3-031-78444-6_30) [[paper]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr.pdf) [[supplementary materials]](https://people.cs.nycu.edu.tw/~walon/publications/fang2024icpr_supp.pdf) [[github]](https://github.com/IShengFang/Best-of-Both-Sides_iToF-RGB-Integration) 
 
 - **ES³Net: Accurate and Efficient Edge-Based Self-Supervised Stereo Matching Network**
   - **I-Sheng Fang**, Hsiao-Chieh Wen, Chia-Lun Hsu, Po-Chung Jen, Ping-Yang Chen, Yong-Sheng Chen
